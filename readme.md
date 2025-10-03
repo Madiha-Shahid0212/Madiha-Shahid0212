@@ -11,7 +11,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-shahid-a64091308/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/CodingQueenMadiha))  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Madiha-Shahid0212))  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:madihashahid212@gmail.com)  
 
 ---
