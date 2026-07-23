@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=4A90D9&center=true&vCenter=true&repeat=true&width=560&lines=Building+intelligent+ML+solutions+%F0%9F%A4%96;Google+Vertex+AI+%7C+NLP+%7C+Computer+Vision;6%2B+months+industry+AI%2FML+experience+%F0%9F%9A%80;Final-year+CS+student+%40+KIET+%7C+CGPA+3.6;Open+to+internships+%26+junior+roles+%F0%9F%99%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=4A90D9&center=true&vCenter=true&repeat=true&width=560&lines=Building+intelligent+ML+solutions+%F0%9F%A4%96;Google+Vertex+AI+%7C+NLP+%7C+Computer+Vision;6%2B+months+industry+AI%2FML+experience+%F0%9F%9A%80;Final-year+CS+student+%40+KIET+%7C;Open+to+internships+%26+junior+roles+%F0%9F%99%8C" alt="Typing SVG" />
 </a>
 
 <br/><br/>
