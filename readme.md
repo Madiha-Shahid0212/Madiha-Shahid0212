@@ -27,7 +27,7 @@
 
 ## About Me
 
-I am an AI / ML engineer in training at **KIET University, Karachi** (CGPA **3.6**, expected **2027**). I build end-to-end machine learning systems in **Python** — from data cleaning and EDA to model evaluation — and I ship applied AI with **Google Vertex AI**, REST APIs, and production-minded tooling.
+I am an AI / ML engineer in training at **KIET University, Karachi** (CGPA **3.6**). I build end-to-end machine learning systems in **Python** — from data cleaning and EDA to model evaluation — and I ship applied AI with **Google Vertex AI**, REST APIs, and production-minded tooling.
 
 **Focus:** Machine Learning · Generative AI · LLMs · RAG · Computer Vision · Backend APIs
 
