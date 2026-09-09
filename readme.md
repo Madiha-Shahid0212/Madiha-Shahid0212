@@ -45,7 +45,6 @@ I am an AI / ML engineer in training at **KIET University, Karachi** (CGPA **3.6
 | 📚 | **Retrieval-Augmented Generation (RAG)** · grounded answers over private data |
 | ✍️ | **Prompt Engineering** · reliable outputs, structured generation, eval loops |
 | 🧩 | **LangChain & AI Agents** · tool-calling, function calling, multi-step workflows |
-| 🧠 | **Deep Learning** · PyTorch & TensorFlow (actively learning) |
 | 👁️ | **Computer Vision** · YOLO, OpenCV, detection pipelines |
 
 <br/>
