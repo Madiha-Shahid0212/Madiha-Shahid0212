@@ -138,15 +138,7 @@ Mobile attendance flow that detects and recognizes faces on-device. Combines And
 
 </details>
 
-<details>
-<summary><b>💬 AI Chatbot · Google Vertex AI</b> · Vertex AI · Conversation design</summary>
-<br/>
 
-Conversational agent on **Google Vertex AI**: prompt and conversation design, model integration, and evaluation. Focused on useful, grounded replies rather than a one-off chatbot screenshot.
-
-</details>
-
-<details>
 <summary><b>🚧 In Progress — LLM Agents & RAG</b> · LangChain · Tool calling · Generative AI</summary>
 <br/>
 
