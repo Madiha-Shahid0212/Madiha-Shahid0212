@@ -139,6 +139,9 @@ Mobile attendance flow that detects and recognizes faces on-device. Combines And
 </details>
 
 
+
+
+<details>
 <summary><b>🚧 In Progress — LLM Agents & RAG</b> · LangChain · Tool calling · Generative AI</summary>
 <br/>
 
