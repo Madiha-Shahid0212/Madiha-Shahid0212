@@ -8,7 +8,6 @@
 
 <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-0D0018?style=for-the-badge&logo=tensorflow&logoColor=E879F9" alt="AI/ML Engineer"/>
 <img src="https://img.shields.io/badge/KIET%20University%20·%20Karachi-0D0018?style=for-the-badge&logo=google-scholar&logoColor=E879F9" alt="KIET"/>
-<img src="https://img.shields.io/badge/Expected%202027-4A044E?style=for-the-badge&logoColor=F5D0FE" alt="2027"/>
 <img src="https://img.shields.io/badge/CGPA-3.6-7C3AED?style=for-the-badge&logoColor=white" alt="CGPA 3.6"/>
 <img src="https://img.shields.io/badge/Open_to-Internships-E879F9?style=for-the-badge&logo=target&logoColor=0D0018" alt="Open to Internships"/>
 
