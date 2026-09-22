@@ -1,4 +1,4 @@
-<!-- MADIHA M. SHAHID · GitHub Profile · Neon Purple -->
+<!-- MADIHA M.SHAHID · GitHub Profile · Neon Purple -->
 
 <div align="center">
 
